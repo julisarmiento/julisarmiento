@@ -1,7 +1,7 @@
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=F8BBD0"
-    width="100%"
+    width="80%"
     alt="Pastel pink header"
   />
 </div>
